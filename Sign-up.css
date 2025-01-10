@@ -1,0 +1,19 @@
+ .u-section-1 {
+  background-image: linear-gradient(to right, #a79770, #333029);
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 421px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 92px auto 0;
+}
+
+.u-section-1 .u-btn-1 {
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  background-image: none;
+  margin: 99px auto 60px;
+}
